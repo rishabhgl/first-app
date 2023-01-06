@@ -1,0 +1,28 @@
+{
+  "hobbies": [
+    {
+      "name": "Drawing",
+      "id": 1,
+      "description": "I like drawing because I enjoy making projects that remind me of things that I have had the pleasure of experiencing in my life.",
+      "brief": "Drawing is a good mode of relaxation for me."
+    },
+    {
+      "name": "Reading",
+      "id": 2,
+      "description": "I enjoy reading because it allows me to experience fantasy worlds that I otherwise would never be able to.",
+      "brief": "Reading is eye-opening for me in various ways."
+    },
+    {
+      "name": "Gaming",
+      "id": 3,
+      "description": "The feeling of making progress through my own efforts as well as being able to live through a story is what amkes gaming enjoyable for me.",
+      "brief": "Games absorb me and do not let go."
+    },
+    {
+      "name": "Cricket",
+      "description": "Cricket- bowling especially, helps me forget my worries temporarily.",
+      "brief": "Cricket is my second favourite sport.",
+      "id": 4
+    }
+  ]
+}
